@@ -1,0 +1,6 @@
+/Users/esrapetursson/Desktop/Quiz/Quiz/bin/Debug/Program.cs
+/Users/esrapetursson/Desktop/Quiz/Quiz/bin/Debug/quiz.sqlite
+/Users/esrapetursson/Desktop/Quiz/Quiz/bin/Debug/Quiz.exe
+/Users/esrapetursson/Desktop/Quiz/Quiz/bin/Debug/Quiz.exe.mdb
+/Users/esrapetursson/Desktop/Quiz/Quiz/obj/x86/Debug/Quiz.exe
+/Users/esrapetursson/Desktop/Quiz/Quiz/obj/x86/Debug/Quiz.exe.mdb
